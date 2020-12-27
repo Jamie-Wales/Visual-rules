@@ -1,0 +1,21 @@
+body {
+  font-family: Poppins;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+main {
+  text-align: center;
+  color: tomato;
+}
+
+a {
+  color: tomato;
+}
