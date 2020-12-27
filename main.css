@@ -1,5 +1,6 @@
 body {
   font-family: Poppins;
+  background-image: url("./pawel-czerwinski-pWhPIawuFQ0-unsplash.jpg");
 }
 
 h1 {
@@ -13,9 +14,13 @@ p {
 
 main {
   text-align: center;
-  color: tomato;
+  color: black;
 }
 
 a {
-  color: tomato;
+  color: lightpink;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.7);
 }
